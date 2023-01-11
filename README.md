@@ -1,4 +1,4 @@
-### Hi there 👋
+### Writing c doe make you like a happy dog!  👋
 
 <!--
 **mutian-xiangcai/mutian-xiangcai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
